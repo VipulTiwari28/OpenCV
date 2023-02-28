@@ -12,7 +12,7 @@ To run this project, you will need:
  -OpenCV library
  -Haar Cascade Classifier XML file
 
-#Future Work
+# Future Work
 There are several areas for improvement in this project, including:
 
  -Optimizing the algorithm for faster processing.
