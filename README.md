@@ -8,16 +8,26 @@ The algorithm works by using a pre-trained Haar Cascade Classifier to detect fro
 # Requirements
 To run this project, you will need:
 
- -Python 3.x
- -OpenCV library
- -Haar Cascade Classifier XML file
+  
+  -Python 3.x
+  
+  
+  -OpenCV library
+  
+  
+  -Haar Cascade Classifier XML file
 
 # Future Work
 There are several areas for improvement in this project, including:
-
- -Optimizing the algorithm for faster processing.
- -Improving accuracy by training a custom Haar Cascade Classifier on head images.
- -Adding additional features such as tracking and counting the number of people entering and exiting a certain area.
+  
+  
+  -Optimizing the algorithm for faster processing.
+  
+  
+  -Improving accuracy by training a custom Haar Cascade Classifier on head images.
+  
+  
+  -Adding additional features such as tracking and counting the number of people entering and exiting a certain area.
 
 
 
